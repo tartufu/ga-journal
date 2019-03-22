@@ -5,9 +5,22 @@
 }
 
 body {
-	background-color: rgb(246,	222,	214	);
+	background-color: rgb(246, 222, 214);
+	padding: 16px;
 }
 
 h1, h2, h3 {
 	text-align: center;
+}
+
+.day1, .day15 {
+	background-color: rgb(88, 72, 104);
+	color: white;
+	padding: 16px;
+}
+
+.day30 {
+	background-color: rgb(176, 86, 113);
+	color: white;
+	padding: 16px;
 }
