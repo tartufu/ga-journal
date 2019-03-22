@@ -24,3 +24,12 @@ h1, h2, h3 {
 	color: white;
 	padding: 16px;
 }
+
+.main-container {
+	display: flex;
+	align-items: center;
+}
+
+.hidden {
+	visibility: hidden;
+}
